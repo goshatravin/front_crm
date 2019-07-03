@@ -1,4 +1,4 @@
-# sirius
+# crm
 
 ## Project setup
 ```
